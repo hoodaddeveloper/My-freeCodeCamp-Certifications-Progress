@@ -4,13 +4,13 @@
 
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
-- [Build A Tribute Page](https://github.com/talitastravassos/doctor-who-tribute) ✔
-- [Build A Survey Form](https://github.com/talitastravassos/survey-form) ✔
-- [Build A Product Landing Page](https://github.com/talitastravassos/headphone-landing-page) ✔
-- [Build A Technical Documentation Page](https://github.com/talitastravassos/technical-documentation-page) ✔
-- [Build A Personal Portfolio Webpage](https://github.com/talitastravassos/talitastravassos.github.io) ✔
+- [Build A Tribute Page](https://github.com/hoodaddeveloper/...) ✔ in progress
+- [Build A Survey Form](https://github.com/hoodaddeveloper/...) ✔ in progress
+- [Build A Product Landing Page](https://github.com/hoodaddeveloper/...) ✔ in progress
+- [Build A Technical Documentation Page](https://github.com/hoodaddeveloper/...) ✔ in progress
+- [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔ in progress
 
-### Certification: https://www.freecodecamp.org/certification/talitastravassos/responsive-web-design
+### Certification: https://www.freecodecamp.org/certification/...
 
 ---
 
