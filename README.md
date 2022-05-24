@@ -1,6 +1,6 @@
 # My-freeCodeCamp-Certifications-Progress
 
-## Projects & Certificantions
+## Projects & Certificantions:
 
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
@@ -11,7 +11,6 @@
 - [Build A Personal Portfolio Webpage](https://github.com/talitastravassos/talitastravassos.github.io) ✔
 
 ### Certification: https://www.freecodecamp.org/certification/talitastravassos/responsive-web-design
-
 
 ---
 
