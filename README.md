@@ -1,6 +1,6 @@
 # My-freeCodeCamp-Certifications-Progress
 
-## Projects & Certificantions:
+## Projects & Certificantions
 
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
