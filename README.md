@@ -10,9 +10,16 @@
 - [Build A Registration Form](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Survey Form (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
-- [Build A Tribute Page](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Rothko Pianting](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Photo Gallery](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Nutrition Label](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Quiz](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Tribute Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+#
 - [Build A Product Landing Page](https://github.com/hoodaddeveloper/...) ✔
+# 
 - [Build A Technical Documentation Page](https://github.com/hoodaddeveloper/...) ✔
+# 
 - [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔
 
 ### Certification: https://www.freecodecamp.org/certification/...
