@@ -16,9 +16,14 @@
 - [Build A Quiz](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Tribute Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
-- [Build A Product Landing Page](https://github.com/hoodaddeveloper/...) ✔
-# 
-- [Build A Technical Documentation Page](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Balance Sheet](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Picasso Painting](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Piano](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Technical Documentation Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+#
+- [Build A City Skyline](https://github.com/hoodaddeveloper/...) ✔
+- - [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Product Landing Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
 # 
 - [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔
 
