@@ -4,11 +4,16 @@
 
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
-- [Build A Tribute Page](https://github.com/hoodaddeveloper/...) ✔ in progress
-- [Build A Survey Form](https://github.com/hoodaddeveloper/...) ✔ in progress
-- [Build A Product Landing Page](https://github.com/hoodaddeveloper/...) ✔ in progress
-- [Build A Technical Documentation Page](https://github.com/hoodaddeveloper/...) ✔ in progress
-- [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔ in progress
+- [Build A Cat Photo App](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Cafe Menu](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Colored Markers](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Registration Form](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Survey Form (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+#
+- [Build A Tribute Page](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Product Landing Page](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Technical Documentation Page](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔
 
 ### Certification: https://www.freecodecamp.org/certification/...
 
