@@ -22,10 +22,12 @@
 - [Build A Technical Documentation Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
 - [Build A City Skyline](https://github.com/hoodaddeveloper/...) ✔
-- - [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Product Landing Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
-# 
-- [Build A Personal Portfolio Webpage](https://github.com/hoodaddeveloper/...) ✔
+#
+- [Build A Penguin](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Personal Portfolio Webpage (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
 
 ### Certification: https://www.freecodecamp.org/certification/...
 
