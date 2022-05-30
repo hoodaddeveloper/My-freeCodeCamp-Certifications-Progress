@@ -8,26 +8,26 @@
 - [Build A Cafe Menu](https://github.com/hoodaddeveloper/Cafe-Menu) ✔
 - [Build A Colored Markers](https://github.com/hoodaddeveloper/Colored-Markers) ✔
 - [Build A Registration Form](https://github.com/hoodaddeveloper/Registration-Form) ✔
-- [Build A Survey Form (Cerification Project)](https://github.com/hoodaddeveloper/Survey-Form) ✔
+- [Build A Survey Form (Certification Project)](https://github.com/hoodaddeveloper/Survey-Form) ✔
 #
 - [Build A Rothko Pianting](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Photo Gallery](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Nutrition Label](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Quiz](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Tribute Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Tribute Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
 - [Build A Balance Sheet](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Picasso Painting](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Piano](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Technical Documentation Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Technical Documentation Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
 - [Build A City Skyline](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Product Landing Page (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 #
 - [Build A Penguin](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Personal Portfolio Webpage (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
 ### Certification: https://www.freecodecamp.org/certification/...
 
