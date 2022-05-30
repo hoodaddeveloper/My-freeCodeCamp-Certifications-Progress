@@ -5,7 +5,7 @@
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
 - [Build A Cat Photo App](https://github.com/hoodaddeveloper/Cat-Photo-App) ✔
-- [Build A Cafe Menu](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Cafe Menu](https://github.com/hoodaddeveloper/Cafe-Menu) ✔
 - [Build A Colored Markers](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Registration Form](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Survey Form (Cerification Project)](https://github.com/hoodaddeveloper/...) ✔
