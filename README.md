@@ -1,16 +1,16 @@
 # My freeCodeCamp Progress
 
-## Projects & Certificantions:
+## Projects & Certifications:
 
 ## 01. Responsive Web Design Certification (300 hours) ✔
 
 - [Build A Cat Photo App](https://github.com/hoodaddeveloper/Cat-Photo-App) ✔
-- [Build A Cafe Menu](https://github.com/hoodaddeveloper/Cafe-Menu) ✔
+- [Build A Café Menu](https://github.com/hoodaddeveloper/Cafe-Menu) ✔
 - [Build A Colored Markers](https://github.com/hoodaddeveloper/Colored-Markers) ✔
 - [Build A Registration Form](https://github.com/hoodaddeveloper/Registration-Form) ✔
 - [Build A Survey Form (Certification Project)](https://github.com/hoodaddeveloper/Survey-Form) ✔
 #
-- [Build A Rothko Pianting](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Rothko Painting](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Photo Gallery](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Nutrition Label](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Quiz](https://github.com/hoodaddeveloper/...) ✔
