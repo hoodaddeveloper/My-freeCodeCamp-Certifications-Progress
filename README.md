@@ -43,25 +43,25 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 hours)
 
-- [Palindrome Checker](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/palindromeChecker.js) ✔
-- [Roman Numeral Converter](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/romanNumeralConverter.js) ✔
-- [Caesars Cipher](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/caesarsCipher.js) ✔
-- [Telephone Number Validator](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/telephoneNumberValidator.js)✔
-- [Cash Register](https://github.com/talitastravassos/JavaScript-Algorithms-and-Data-Structures-Projects-FCC/blob/master/cashRegister.js) ✔
+- [Palindrome Checker]
+- [Roman Numeral Converter]
+- [Caesars Cipher]
+- [Telephone Number Validator]
+- [Cash Register]
 
-### Certification: https://www.freecodecamp.org/certification/talitastravassos/javascript-algorithms-and-data-structures
+### Certification:
 
 ---
 
 ## 03. Front End Libraries Certification (300 hours)
 
-- [Build A Random Quote Machine](https://github.com/talitastravassos/random-quote-machine) ✔
-- [Build A Markdown Previewer](https://github.com/talitastravassos/markdown-previewer) ✔
-- [Build A Drum Machine](https://github.com/talitastravassos/drum-machine) ✔
-- [Build A JavaScript Calculator](https://github.com/talitastravassos/calculator-react) ✔
-- [Build A Pomodoro Clock](https://codepen.io/talitastravassos/full/OYdBmd) ✔
+- [Build A Random Quote Machine]
+- [Build A Markdown Previewer]
+- [Build A Drum Machine]
+- [Build A JavaScript Calculator]
+- [Build A Pomodoro Clock]
 
-### Certification: https://www.freecodecamp.org/certification/talitastravassos/front-end-libraries
+### Certification:
 
 ---
 
