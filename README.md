@@ -1,4 +1,4 @@
-# My freeCodeCamp Progress
+# My freeCodeCamp progress
 
 ## Projects & Certifications:
 
