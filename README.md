@@ -10,8 +10,6 @@
 - [Build A Registration Form](https://github.com/hoodaddeveloper/Registration-Form) ✔
 - [Build A Survey Form (Certification Project)](https://github.com/hoodaddeveloper/Survey-Form) ✔
 
-### Certification: https://freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
-
 ---
 
 - [Build A Rothko Painting](https://github.com/hoodaddeveloper/...) ✔
@@ -39,7 +37,7 @@
 - [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
-### Certification: https://www.freecodecamp.org/certification/...
+### Certification: https://freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
 
 ---
 
