@@ -16,7 +16,7 @@
 - [Build A Photo Gallery](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Nutrition Label](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Quiz](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Tribute Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Tribute Page (Certification Project)](https://github.com/hoodaddeveloper/Tribute-Page) ✔
 
 ---
 
