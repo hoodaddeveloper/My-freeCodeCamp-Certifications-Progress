@@ -37,7 +37,7 @@
 - [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...)
 - [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...)
 
-### Certification: https://freecodecamp.org/certification/hoodaddeveloper/responsive-web-design ✅
+### ✅ Certification: https://freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
 
 ---
 
