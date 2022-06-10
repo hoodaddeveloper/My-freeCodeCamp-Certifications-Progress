@@ -20,8 +20,8 @@
 
 ---
 
-- [Build A Balance Sheet](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Picasso Painting](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Balance Sheet](https://github.com/hoodaddeveloper/Balance-Sheet) ✔
+- [Build A Picasso Painting](https://github.com/hoodaddeveloper/Picasso-Painting) ✔
 - [Build A Piano](https://github.com/hoodaddeveloper/...)
 - [Build A Technical Documentation Page (Certification Project)](https://github.com/hoodaddeveloper/...)
 
