@@ -22,20 +22,20 @@
 
 - [Build A Balance Sheet](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Picasso Painting](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Piano](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Technical Documentation Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Piano](https://github.com/hoodaddeveloper/...)
+- [Build A Technical Documentation Page (Certification Project)](https://github.com/hoodaddeveloper/...)
 
 ---
 
-- [Build A City Skyline](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A City Skyline](https://github.com/hoodaddeveloper/...)
+- [Build A Magazine](https://github.com/hoodaddeveloper/...)
+- [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...)
 
 ---
 
-- [Build A Penguin](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
-- [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Penguin](https://github.com/hoodaddeveloper/...)
+- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...)
+- [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...)
 
 ### Certification: https://freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
 
