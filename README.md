@@ -43,11 +43,11 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 hours)
 
-- [Palindrome Checker]
-- [Roman Numeral Converter]
-- [Caesars Cipher]
-- [Telephone Number Validator]
-- [Cash Register]
+- [Palindrome Checker](https://github.com/hoodaddeveloper/...)
+- [Roman Numeral Converter](https://github.com/hoodaddeveloper/...)
+- [Caesars Cipher](https://github.com/hoodaddeveloper/...)
+- [Telephone Number Validator](https://github.com/hoodaddeveloper/...)
+- [Cash Register](https://github.com/hoodaddeveloper/...)
 
 ### Certification: www.freecodecamp.org/certification/hoodaddeveloper/javascript-algorithms-and-data-structures
 
