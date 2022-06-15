@@ -49,7 +49,7 @@
 - [Telephone Number Validator]
 - [Cash Register]
 
-### Certification:
+### Certification: www.freecodecamp.org/certification/hoodaddeveloper/javascript-algorithms-and-data-structures
 
 ---
 
