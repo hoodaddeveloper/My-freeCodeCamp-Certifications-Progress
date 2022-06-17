@@ -61,7 +61,7 @@
 - [Build A JavaScript Calculator]
 - [Build A Pomodoro Clock]
 
-### Certification:
+### ✅ Certification:
 
 ---
 
@@ -73,7 +73,7 @@
 - Visualize Data With A Choropleth Map
 - Visualize Data With A Treemap Diagram
 
-### Certification
+### ✅ Certification
 
 ---
 
@@ -85,7 +85,7 @@
 - Exercise Tracker
 - File Metadata Microservice
 
-### Certification
+### ✅ Certification
 
 ---
 
@@ -97,7 +97,7 @@
 - Stock Price Checker
 - Anonymous Message Board
 
-### Certification
+### ✅ Certification
 
 ---
 
