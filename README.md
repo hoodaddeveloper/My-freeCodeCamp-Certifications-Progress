@@ -2,7 +2,7 @@
 
 ## Projects & Certifications:
 
-## 01. Responsive Web Design Certification (300 hours) ✔
+## 01. Responsive Web Design Certification (300 Hours) ✔
 
 - [Build A Cat Photo App](https://github.com/hoodaddeveloper/Cat-Photo-App) ✔
 - [Build A Café Menu](https://github.com/hoodaddeveloper/Cafe-Menu) ✔
@@ -41,7 +41,7 @@
 
 ---
 
-## 02. JavaScript Algorithms and Data Structures Certification (300 hours)
+## 02. JavaScript Algorithms and Data Structures Certification (300 Hours)
 
 - [Palindrome Checker](https://github.com/hoodaddeveloper/...)
 - [Roman Numeral Converter](https://github.com/hoodaddeveloper/...)
@@ -53,7 +53,7 @@
 
 ---
 
-## 03. Front End Libraries Certification (300 hours)
+## 03. Front End Libraries Certification (300 Hours)
 
 - [Build A Random Quote Machine]
 - [Build A Markdown Previewer]
@@ -65,7 +65,7 @@
 
 ---
 
-## 04. Data Visualization Certification (300 hours)
+## 04. Data Visualization Certification (300 Hours)
 
 - Visualize Data With A Bar Chart
 - Visualize Data With A Scatterplot Graph
@@ -77,7 +77,7 @@
 
 ---
 
-## 05. Apis and Microservices Certification (300 hours)
+## 05. Apis and Microservices Certification (300 Hours)
 
 - Timestamp Microservice
 - Request Header Parser Microservice
@@ -89,7 +89,7 @@
 
 ---
 
-## 06. Information Security and Quality Assurance Certification (300 hours)
+## 06. Information Security and Quality Assurance Certification (300 Hours)
 
 - Metric Imperial Converter
 - Issue Tracker
