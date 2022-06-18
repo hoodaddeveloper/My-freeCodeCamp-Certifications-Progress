@@ -68,20 +68,20 @@
 
 ## 03. Front End Libraries Certification (300 Hours)
 
-- [Basic JavaScript]
-- [ES6 Modern JavaScript]
-- [Regular Expressions]
-- [Debugging]
-- [Basic Data Structures]
-- [Basic Algorithm Scripting]
-- [Object Oriented Programming]
-- [Functional Programming]
-- [Intermediate Algorithm Scripting]
-- [Palindrome Checker (Certification Project)]
-- [Roman Numeral Converter (Certification Project)]
-- [Caesars Cipher (Certification Project)]
-- [Telephone Number Validator (Certification Project)]
-- [Cash Register (Certification Project)]
+- [Basic JavaScript](https://github.com/hoodaddeveloper/...)
+- [ES6 Modern JavaScript](https://github.com/hoodaddeveloper/...)
+- [Regular Expressions](https://github.com/hoodaddeveloper/...)
+- [Debugging](https://github.com/hoodaddeveloper/...)
+- [Basic Data Structures](https://github.com/hoodaddeveloper/...)
+- [Basic Algorithm Scripting](https://github.com/hoodaddeveloper/...)
+- [Object Oriented Programming](https://github.com/hoodaddeveloper/...)
+- [Functional Programming](https://github.com/hoodaddeveloper/...)
+- [Intermediate Algorithm Scripting](https://github.com/hoodaddeveloper/...)
+- [Palindrome Checker (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Roman Numeral Converter (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Caesars Cipher (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Telephone Number Validator (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Cash Register (Certification Project)](https://github.com/hoodaddeveloper/...)
 
 ### ✅ Certification:
 
