@@ -83,11 +83,11 @@
 - [React](https://github.com/hoodaddeveloper/...)
 - [Redux](https://github.com/hoodaddeveloper/...)
 - [React and Redux](https://github.com/hoodaddeveloper/...)
-- [Build A Random Quote Machine](https://github.com/hoodaddeveloper/...)
-- [Build A Markdown Previewer](https://github.com/hoodaddeveloper/...)
-- [Build A Drum Machine](https://github.com/hoodaddeveloper/...)
-- [Build A JavaScript Calculator](https://github.com/hoodaddeveloper/...)
-- [Build A 25 + 5 Clock](https://github.com/hoodaddeveloper/...)
+- [Build A Random Quote Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A Markdown Previewer (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A Drum Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A JavaScript Calculator (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A 25 + 5 Clock (Certification Project)](https://github.com/hoodaddeveloper/...)
 
 ### ✅ Certification:
 
