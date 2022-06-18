@@ -44,13 +44,13 @@
 ## FreeCodeCamp Legacy Responsive Web Design Courses
 
 - [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
-- [Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
+- [Basic CSS](https://github.com/hoodaddeveloper/...)
+- [Applied Visual Design](https://github.com/hoodaddeveloper/...)
+- [Applied Accessibility](https://github.com/hoodaddeveloper/...)
+- [Responsive Web Design Principles](https://github.com/hoodaddeveloper/...)
+- [CSS Flexbox](https://github.com/hoodaddeveloper/...)
+- [CSS Grid](https://github.com/hoodaddeveloper/...)
+- [Responsive Web Design Projects](https://github.com/hoodaddeveloper/...)
 
 ---
 
