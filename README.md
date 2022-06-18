@@ -68,6 +68,15 @@
 
 ## 03. Front End Libraries Certification (300 Hours)
 
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 - [Build A Random Quote Machine]
 - [Build A Markdown Previewer]
 - [Build A Drum Machine]
