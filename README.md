@@ -68,20 +68,20 @@
 
 ## 03. Front End Libraries Certification (300 Hours)
 
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- [Build A Random Quote Machine]
-- [Build A Markdown Previewer]
-- [Build A Drum Machine]
-- [Build A JavaScript Calculator]
-- [Build A Pomodoro Clock]
+- [Basic JavaScript]
+- [ES6 Modern JavaScript]
+- [Regular Expressions]
+- [Debugging]
+- [Basic Data Structures]
+- [Basic Algorithm Scripting]
+- [Object Oriented Programming]
+- [Functional Programming]
+- [Intermediate Algorithm Scripting]
+- [Palindrome Checker (Certification Project)]
+- [Roman Numeral Converter (Certification Project)]
+- [Caesars Cipher (Certification Project)]
+- [Telephone Number Validator (Certification Project)]
+- [Cash Register (Certification Project)]
 
 ### ✅ Certification:
 
