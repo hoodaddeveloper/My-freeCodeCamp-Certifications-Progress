@@ -41,6 +41,10 @@
 
 ---
 
+## FreeCodeCamp Legacy Responsive Web Design Courses
+
+---[Basic HTML and HTML5](https://github.com/hoodaddeveloper/...)
+
 ## 02. JavaScript Algorithms and Data Structures Certification (300 Hours)
 
 - [Palindrome Checker](https://github.com/hoodaddeveloper/...)
