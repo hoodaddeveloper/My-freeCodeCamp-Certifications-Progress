@@ -56,18 +56,6 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 Hours)
 
-- [Palindrome Checker](https://github.com/hoodaddeveloper/...)
-- [Roman Numeral Converter](https://github.com/hoodaddeveloper/...)
-- [Caesars Cipher](https://github.com/hoodaddeveloper/...)
-- [Telephone Number Validator](https://github.com/hoodaddeveloper/...)
-- [Cash Register](https://github.com/hoodaddeveloper/...)
-
-### ✅ Certification: www.freecodecamp.org/certification/hoodaddeveloper/javascript-algorithms-and-data-structures
-
----
-
-## 03. Front End Libraries Certification (300 Hours)
-
 - [Basic JavaScript](https://github.com/hoodaddeveloper/...)
 - [ES6 Modern JavaScript](https://github.com/hoodaddeveloper/...)
 - [Regular Expressions](https://github.com/hoodaddeveloper/...)
@@ -82,6 +70,14 @@
 - [Caesars Cipher (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Telephone Number Validator (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Cash Register (Certification Project)](https://github.com/hoodaddeveloper/...)
+
+### ✅ Certification: www.freecodecamp.org/certification/hoodaddeveloper/javascript-algorithms-and-data-structures
+
+---
+
+## 03. Front End Libraries Certification (300 Hours)
+
+
 
 ### ✅ Certification:
 
