@@ -27,7 +27,7 @@
 
 ---
 
-- [Build A City Skyline](https://github.com/hoodaddeveloper/...)
+- [Build A City Skyline](https://github.com/hoodaddeveloper/City-Skyline) ✔
 - [Build A Magazine](https://github.com/hoodaddeveloper/...)
 - [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...)
 
