@@ -28,14 +28,14 @@
 ---
 
 - [Build A City Skyline](https://github.com/hoodaddeveloper/City-Skyline) ✔
-- [Build A Magazine](https://github.com/hoodaddeveloper/...)
-- [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A Magazine](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Product Landing Page (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
 ---
 
-- [Build A Penguin](https://github.com/hoodaddeveloper/...)
-- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...)
-- [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A Penguin](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
 ### ✅ Certification: www.freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
 
