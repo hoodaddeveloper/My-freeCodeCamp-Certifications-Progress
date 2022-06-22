@@ -33,7 +33,7 @@
 
 ---
 
-- [Build A Penguin](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Penguin](https://github.com/hoodaddeveloper/Penguin) ✔
 - [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
 - [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
