@@ -34,7 +34,7 @@
 ---
 
 - [Build A Penguin](https://github.com/hoodaddeveloper/Penguin) ✔
-- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/...) ✔
+- [Build A Ferris Wheel](https://github.com/hoodaddeveloper/Ferris-Wheel) ✔
 - [Build A Personal Portfolio Webpage (Certification Project)](https://github.com/hoodaddeveloper/...) ✔
 
 ### ✅ Certification: www.freecodecamp.org/certification/hoodaddeveloper/responsive-web-design
