@@ -1,7 +1,5 @@
 # My freeCodeCamp Progress
-
 ## Projects & Certifications:
-
 ## 01. Responsive Web Design Certification (300 Hours) ✔
 
 - [Build A Cat Photo App](https://github.com/hoodaddeveloper/Cat-Photo-App) ✔
