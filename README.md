@@ -41,15 +41,6 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 Hours)
 
-- [Basic JavaScript](https://github.com/hoodaddeveloper/...)
-- [ES6 Modern JavaScript](https://github.com/hoodaddeveloper/...)
-- [Regular Expressions](https://github.com/hoodaddeveloper/...)
-- [Debugging](https://github.com/hoodaddeveloper/...)
-- [Basic Data Structures](https://github.com/hoodaddeveloper/...)
-- [Basic Algorithm Scripting](https://github.com/hoodaddeveloper/...)
-- [Object Oriented Programming](https://github.com/hoodaddeveloper/...)
-- [Functional Programming](https://github.com/hoodaddeveloper/...)
-- [Intermediate Algorithm Scripting](https://github.com/hoodaddeveloper/...)
 - [Palindrome Checker (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Roman Numeral Converter (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Caesars Cipher (Certification Project)](https://github.com/hoodaddeveloper/...)
