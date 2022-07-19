@@ -105,12 +105,6 @@
 
 ---
 
-## Full Stack Development Certification
-
-Once you earn all 6 of these certifications, you'll be able to claim your freeCodeCamp Full Stack Development Certification. This final distinction signifies that you’ve completed around 1,800 hours of coding with a wide range of web development tools.
-
----
-
 ## 07. Coding Interview Prep (Thousands of hours of challenges)
 
 - Algorithms - 09
