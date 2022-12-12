@@ -41,11 +41,11 @@
 
 ## 02. JavaScript Algorithms and Data Structures Certification (300 Hours)
 
-- [Palindrome Checker (Certification Project)](https://github.com/hoodaddeveloper/Palindrome-Checker) ✔
-- [Roman Numeral Converter (Certification Project)](https://github.com/hoodaddeveloper/Roman-Numeral-Converter) ✔
-- [Caesars Cipher (Certification Project)](https://github.com/hoodaddeveloper/Caesars-Cipher) ✔
-- [Telephone Number Validator (Certification Project)](https://github.com/hoodaddeveloper/Telephone-Number-Validator) ✔
-- [Cash Register (Certification Project)](https://github.com/hoodaddeveloper/Cash-Register) ✔
+- [Build A Palindrome Checker (Certification Project)](https://github.com/hoodaddeveloper/Palindrome-Checker) ✔
+- [Build A Roman Numeral Converter (Certification Project)](https://github.com/hoodaddeveloper/Roman-Numeral-Converter) ✔
+- [Build A Caesars Cipher (Certification Project)](https://github.com/hoodaddeveloper/Caesars-Cipher) ✔
+- [Build A Telephone Number Validator (Certification Project)](https://github.com/hoodaddeveloper/Telephone-Number-Validator) ✔
+- [Build A Cash Register (Certification Project)](https://github.com/hoodaddeveloper/Cash-Register) ✔
 
 ### ✅ Certification: www.freecodecamp.org/certification/hoodaddeveloper/javascript-algorithms-and-data-structures
 
@@ -53,7 +53,7 @@
 
 ## 03. Front End Libraries Certification (300 Hours)
 
-- [Front End Libraries Certification Progress](https://github.com/hoodaddeveloper/Frontend-Development-Libraries)
+- [freeCodeCamp Front End Libraries](https://github.com/hoodaddeveloper/Frontend-Development-Libraries)
 - [Build A Random Quote Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Build A Markdown Previewer (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Build A Drum Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
