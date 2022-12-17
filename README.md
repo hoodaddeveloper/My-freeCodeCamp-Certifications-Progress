@@ -53,8 +53,8 @@
 
 ## 03. Front End Libraries Certification (300 Hours)
 
-- [freeCodeCamp Front End Libraries](https://github.com/hoodaddeveloper/Frontend-Development-Libraries)
-- [Build A Random Quote Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [freeCodeCamp Front End Libraries](https://github.com/hoodaddeveloper/Frontend-Development-Libraries) ✔
+- [Build A Random Quote Machine (Certification Project)](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
 - [Build A Markdown Previewer (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Build A Drum Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Build A JavaScript Calculator (Certification Project)](https://github.com/hoodaddeveloper/...)
