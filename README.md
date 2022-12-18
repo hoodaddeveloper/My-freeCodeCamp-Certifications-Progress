@@ -56,7 +56,7 @@
 - [freeCodeCamp Front End Libraries](https://github.com/hoodaddeveloper/Frontend-Development-Libraries) ✔
 - [Build A Random Quote Machine (Certification Project)](https://github.com/hoodaddeveloper/Random-Quote-Machine) ✔
 - [Build A Markdown Previewer (Certification Project)](https://github.com/hoodaddeveloper/Markdown-Previewer) ✔
-- [Build A Drum Machine (Certification Project)](https://github.com/hoodaddeveloper/...)
+- [Build A Drum Machine (Certification Project)](https://github.com/hoodaddeveloper/Drum-Machine) ✔)
 - [Build A JavaScript Calculator (Certification Project)](https://github.com/hoodaddeveloper/...)
 - [Build A 25 + 5 Clock (Certification Project)](https://github.com/hoodaddeveloper/...)
 
